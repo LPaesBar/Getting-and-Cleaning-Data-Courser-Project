@@ -49,4 +49,6 @@ tBodyAccJerkMean:  Average of all observations for a subject in a specific activ
 tBodyGyroMean:  Average of all observations for a subject in a specific activity.
 tBodyGyroJerkMean: Average of all observations for a subject in a specific activity.
 
+We also have the Subject and Activity columns, which depict the subject indentifier and the activity performed by the subject, respectively. In total, we have 68 variables.
+
 
